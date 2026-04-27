@@ -9,3 +9,8 @@
 - Record Patterns
 - Pattern Matching for switch
 - Generational ZGC 
+## Java 17 (LTS):
+- Sealed Classes
+- Pattern Matching for instanceof
+- Records 
+- Text Blocks(Java 15) 
