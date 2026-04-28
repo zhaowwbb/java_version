@@ -14,3 +14,11 @@
 - Pattern Matching for instanceof
 - Records 
 - Text Blocks(Java 15) 
+## Java 11 (LTS):
+- Local-Variable Syntax for Lambda Parameters
+- HTTP Client (Standard)
+- String API Enhancements 
+- Files API Updates 
+- Collection to Array 
+- Predicate.not() 
+- Optional.isEmpty() 
