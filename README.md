@@ -22,3 +22,11 @@
 - Collection to Array 
 - Predicate.not() 
 - Optional.isEmpty() 
+## Java 8 (LTS):
+- Lambda Expressions & Functional Interfaces
+- Stream API (java.util.stream)
+- New Date & Time API (java.time)
+- Method References
+- Default & Static Methods in Interfaces
+- Optional Class (java.util.Optional)
+- forEach Method
